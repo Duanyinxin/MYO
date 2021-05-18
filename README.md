@@ -1,2 +1,2 @@
 # MYO
-MYO
+MYO connect + SDK
